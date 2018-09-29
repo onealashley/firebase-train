@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url(../images/train-station.jpg);
+    height: 25%;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(41, 62, 223, 1);;
+
+}
+
+.panel-heading {
+    background-color: #7fbdff;
+    text-align: center;
+}
+
+.panel-primary {
+    border: 1px solid black;
+    border-radius: 5px; 
+}
+
+form {
+    padding: 15px;
+}
+
+#add-train-btn {
+    background: #7fbdff;
+}
